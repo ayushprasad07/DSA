@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushprasad07/DSA/tree/master/0624-maximum-distance-in-arrays) |
 ## Greedy
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
