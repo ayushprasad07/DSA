@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushprasad07/DSA/tree/master/0624-maximum-distance-in-arrays) |
 ## Greedy
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
@@ -28,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
