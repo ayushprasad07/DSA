@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushprasad07/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ayushprasad07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ayushprasad07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ayushprasad07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ayushprasad07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
