@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushprasad07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushprasad07/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ayushprasad07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushprasad07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ayushprasad07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting Sort
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushprasad07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,9 +45,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushprasad07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ayushprasad07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayushprasad07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
