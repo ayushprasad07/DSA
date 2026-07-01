@@ -58,8 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/ayushprasad07/DSA/tree/master/0097-interleaving-string) |
 | [0344-reverse-string](https://github.com/ayushprasad07/DSA/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/ayushprasad07/DSA/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/ayushprasad07/DSA/tree/master/0097-interleaving-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ayushprasad07/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
