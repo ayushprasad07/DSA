@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/ayushprasad07/DSA/tree/master/0097-interleaving-string) |
 | [0344-reverse-string](https://github.com/ayushprasad07/DSA/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/ayushprasad07/DSA/tree/master/0394-decode-string) |
 | [0796-rotate-string](https://github.com/ayushprasad07/DSA/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ayushprasad07/DSA/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ayushprasad07/DSA/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ayushprasad07/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
