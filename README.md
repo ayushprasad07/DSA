@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ayushprasad07/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/ayushprasad07/DSA/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayushprasad07/DSA/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/ayushprasad07/DSA/tree/master/0097-interleaving-string) |
 ## String Matching
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/ayushprasad07/DSA/tree/master/0394-decode-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushprasad07/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
