@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0198-house-robber](https://github.com/ayushprasad07/DSA/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushprasad07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushprasad07/DSA/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/ayushprasad07/DSA/tree/master/0097-interleaving-string) |
+| [0198-house-robber](https://github.com/ayushprasad07/DSA/tree/master/0198-house-robber) |
 ## String Matching
 |  |
 | ------- |
