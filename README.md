@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushprasad07/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/ayushprasad07/DSA/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushprasad07/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [1929-concatenation-of-array](https://github.com/ayushprasad07/DSA/tree/master/1929-concatenation-of-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ayushprasad07/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Greedy
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushprasad07/DSA/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ayushprasad07/DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
