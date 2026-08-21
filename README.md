@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ayushprasad07/DSA/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/ayushprasad07/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushprasad07/DSA/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushprasad07/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushprasad07/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ayushprasad07/DSA/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ayushprasad07/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ayushprasad07/DSA/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/ayushprasad07/DSA/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/ayushprasad07/DSA/tree/master/0198-house-robber) |
