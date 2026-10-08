@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ayushprasad07/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ayushprasad07/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ayushprasad07/DSA/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/ayushprasad07/DSA/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushprasad07/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ayushprasad07/DSA/tree/master/0060-permutation-sequence) |
 | [0394-decode-string](https://github.com/ayushprasad07/DSA/tree/master/0394-decode-string) |
 ## Memoization
 |  |
